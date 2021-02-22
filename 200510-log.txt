@@ -1,0 +1,25 @@
+#####################
+Admin Login: admin1. Timestamp= 2020.05.10.09.14.49
+
+Log Action: Check Products QTY per Category. Time:2020.05.10.09.15.15
+Accessories: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 8 items
+Other: Products with Qty Below Limit of 10 items
+Outdoor-Camping: Products with Qty Below Limit of 5 items
+Security Forces: Products with Qty Below Limit of 5 items
+Shoes: Qty OK
+Workwear: Products with Qty Below Limit of 5 items
+
+
+#####################
+Admin Login: admin1. Timestamp= 2020.05.10.09.15.50
+
+#####################
+Admin Login: admin1. Timestamp= 2020.05.10.10.01.28
+
+#####################
+Admin Login: admin1. Timestamp= 2020.05.10.10.12.18
+
+#####################
+Admin Login: admin1. Timestamp= 2020.05.10.10.19.25
+

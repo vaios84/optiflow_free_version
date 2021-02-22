@@ -1,0 +1,29 @@
+#####################
+User Login: guest. Timestamp= 2020.05.20.00.50.04
+
+Log Action: Check Products QTY per Category. Time:2020.05.20.00.55.32
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 8 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 5 items
+Shoes: Products with Qty Below Limit of 5 items
+Tools: Products with Qty Below Limit of 3 items
+Workwear: Products with Qty Below Limit of 5 items
+
+
+#####################
+Admin Login: admin1. Timestamp= 2020.05.20.01.25.36
+
+Log Action: Add New Product. Product ID= 2005208197. Name = Green T.
+Time= 2020.05.20.01.26.37
+
+Log Action: Check Products QTY per Category. Time:2020.05.20.01.26.46
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 8 items
+Clothing: Qty OK
+Other: Products with Qty Below Limit of 5 items
+Shoes: Products with Qty Below Limit of 5 items
+Tools: Products with Qty Below Limit of 3 items
+Workwear: Products with Qty Below Limit of 5 items
+
+

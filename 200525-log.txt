@@ -1,0 +1,13 @@
+#####################
+User Login: guest. Timestamp= 2020.05.25.21.18.30
+
+Log Action: Check Products QTY per Category. Time:2020.05.25.21.18.32
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 8 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 5 items
+Shoes: Products with Qty Below Limit of 5 items
+Tools: Products with Qty Below Limit of 3 items
+Workwear: Products with Qty Below Limit of 5 items
+
+

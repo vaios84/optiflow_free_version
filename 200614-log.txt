@@ -1,0 +1,195 @@
+#####################
+User Login: guest. Timestamp= 2020.06.14.22.35.55
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.22.35.57
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.22.38.44
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.22.38.46
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Add New Product. Product ID= 2006147991. Name = dfhdhdfrh.
+Time= 2020.06.14.22.40.19
+
+Log Action: Add New Product. Product ID= 12645641654. Name = fdhrtshrt.
+Time= 2020.06.14.22.40.50
+
+Log Action: Add New Product. Product ID= 365. Name = hrtfj.
+Time= 2020.06.14.22.41.11
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.00.27
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.00.29
+Accessories: Qty OK
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 13.
+Time= 2020.06.14.23.00.45
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 12.
+Time= 2020.06.14.23.00.48
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 11.
+Time= 2020.06.14.23.00.49
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.03.21
+
+Log Action: Add New Product. Product ID= 1000. Name = sgsdg.
+Time= 2020.06.14.23.03.42
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 54.
+Time= 2020.06.14.23.04.28
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 53.
+Time= 2020.06.14.23.04.32
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 52.
+Time= 2020.06.14.23.04.34
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.04.41
+Accessories: Qty OK
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.11.05
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.11.09
+Accessories: Qty OK
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 51.
+Time= 2020.06.14.23.11.17
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 50.
+Time= 2020.06.14.23.11.49
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.18.09
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.18.11
+Accessories: Qty OK
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 49.
+Time= 2020.06.14.23.18.15
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 48.
+Time= 2020.06.14.23.18.17
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 47.
+Time= 2020.06.14.23.18.34
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.31.05
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.31.08
+Accessories: Qty OK
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 10.
+Time= 2020.06.14.23.31.12
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 9.
+Time= 2020.06.14.23.31.24
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 8.
+Time= 2020.06.14.23.31.32
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 7.
+Time= 2020.06.14.23.31.34
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.37.18
+
+Log Action: Minus ONE Item. Product ID= 258.
+Name= test2. Size= 147946. New QTY= 41.
+Time= 2020.06.14.23.37.22
+
+Log Action: Minus ONE Item. Product ID= 369.
+Name= test3. Size= 87221860. New QTY= 6.
+Time= 2020.06.14.23.37.26
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 46.
+Time= 2020.06.14.23.37.28
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= test1. Size= 62987981. New QTY= 45.
+Time= 2020.06.14.23.37.31
+
+#####################
+User Login: guest. Timestamp= 2020.06.14.23.51.38
+
+Log Action: Check Products QTY per Category. Time:2020.06.14.23.51.46
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+

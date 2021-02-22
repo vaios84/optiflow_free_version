@@ -1,0 +1,58 @@
+#####################
+User Login: guest. Timestamp= 2020.06.15.00.02.38
+
+Log Action: Check Products QTY per Category. Time:2020.06.15.00.02.58
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+#####################
+User Login: guest. Timestamp= 2020.06.15.00.34.09
+
+#####################
+Admin Login: admin1. Timestamp= 2020.06.15.00.37.11
+
+#####################
+Admin Login: admin1. Timestamp= 2020.06.15.00.38.40
+
+Log Action: Add New Product. Product ID= 147. Name = fds.
+Time= 2020.06.15.00.39.04
+
+Log Action: Add New Product. Product ID= 258. Name = sdgresdh.
+Time= 2020.06.15.00.39.20
+
+Log Action: Check Products QTY per Category. Time:2020.06.15.00.39.25
+Accessories: Products with Qty Below Limit of 10 items
+Books: Products with Qty Below Limit of 10 items
+Clothing: Products with Qty Below Limit of 10 items
+Other: Products with Qty Below Limit of 10 items
+Shoes: Products with Qty Below Limit of 10 items
+Tools: Products with Qty Below Limit of 10 items
+Workwear: Products with Qty Below Limit of 10 items
+
+
+Log Action: Minus ONE Item. Product ID= 258.
+Name= sdgresdh. Size= 456. New QTY= 4.
+Time= 2020.06.15.00.39.40
+
+Log Action: Minus ONE Item. Product ID= 258.
+Name= sdgresdh. Size= 456. New QTY= 3.
+Time= 2020.06.15.00.39.42
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= fds. Size= fdbfdb. New QTY= 4.
+Time= 2020.06.15.00.39.44
+
+Log Action: Minus ONE Item. Product ID= 147.
+Name= fds. Size= fdbfdb. New QTY= 3.
+Time= 2020.06.15.00.39.46
+
+Log Action: Minus ONE Item. Product ID= 258.
+Name= sdgresdh. Size= 456. New QTY= 2.
+Time= 2020.06.15.00.41.27
+
